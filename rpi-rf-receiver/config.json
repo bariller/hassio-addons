@@ -20,7 +20,8 @@
     "options": {
   "code": "/share/rpi-rf_receive.py",
   "requirements": [
-    "rpi-rf-gpiod"
+    "rpi-rf-gpiod",
+    "gpiod"
   ],
   "clean": true
 },
